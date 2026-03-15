@@ -1,6 +1,9 @@
 ## Hi there, I'm Minza!
 
-I am an M.Tech Biotechnology student with a strong interest in **computational biology, predictive modeling, and mathematical approaches to immunology and infectious disease**. My current work focuses on translating biological hypotheses into reproducible computational pipelines.
+M.Tech Biotechnology | Computational Immunology | Molecular Mimicry & Autoimmune Disease | ML-based structural validation pipelines
+
+Studying at: Guru Gobind Singh Indraprastha University
+www.linkedin.com/in/minza-ilahi-9b6aba222 | https://orcid.org/orcid-search/search?orcid=0009-0001-8883-5226
 
 ---
 
