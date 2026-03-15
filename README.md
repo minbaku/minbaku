@@ -3,7 +3,7 @@
 M.Tech Biotechnology | Computational Immunology | Molecular Mimicry & Autoimmune Disease | ML-based structural validation pipelines
 
 Studying at: Guru Gobind Singh Indraprastha University
-www.linkedin.com/in/minza-ilahi-9b6aba222 | https://orcid.org/orcid-search/search?orcid=0009-0001-8883-5226
+www.linkedin.com/in/minza-ilahi-9b6aba222 |  https://www.researchgate.net/profile/Minza-Ilahi?ev=hdr_xprf | https://orcid.org/orcid-search/search?orcid=0009-0001-8883-5226
 
 ---
 
@@ -76,9 +76,3 @@ Quantitative analysis of snoRNA expression under osmotic stress conditions, comp
 - Phylodynamics and evolutionary inference
 - Strengthening theoretical foundations for PhD-level research
 
----
-
-##  Connect
--  https://www.linkedin.com/in/minza-ilahi-9b6aba222
--  https://www.researchgate.net/profile/Minza-Ilahi?ev=hdr_xprf
--  https://orcid.org/orcid-search/search?orcid=0009-0001-8883-5226
